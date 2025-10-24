@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import Card from "./Components/Card";
-import Usestate from "./Components/useState";
 import PropCard from "./Components/PropCard";
 import Music from "./Components/Music";
 import Navbar from "./Components/Navbar";
